@@ -1,6 +1,6 @@
 ECommerce ficticio utilizando Vue 3
 
-[Demo](https://alquil-ar.vercel.app/)
+[Demo](https://vue-ecommerce-liard.vercel.app/)
 
 ## Made with:
 
