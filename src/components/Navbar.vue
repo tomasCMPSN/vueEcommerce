@@ -55,7 +55,7 @@ const toggleMenu = ref(false)
     </div>
 
     <Sidebar v-model:visible="visible" position="right">
-        <h2>SIDEBAR</h2>
+        <h2>Your Cart Seems Empty</h2>
     </Sidebar>
 </template>
 
